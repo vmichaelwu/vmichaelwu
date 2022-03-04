@@ -1,5 +1,12 @@
-### Hi there 👋
 
+👋 Hi, I'm Michael, a software engineer from los Angeles.
+
+
+Languages: JavaScript, 
+Frontend: React, Redux, JQuery, HTML5 / CSS3, Styled-Components, 
+Backend: Node.js, Express, Nginx, AWS EC2, REST APIs
+Testing/Tools: Jest, Mocha / Chai, Webpack, Babel, Git, Jira, Agile development
+Data: SQL (Postgres, MySQL), NoSQL (MongoDB)
 <!--
 **vmichaelwu/vmichaelwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
